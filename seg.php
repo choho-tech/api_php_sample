@@ -5,8 +5,8 @@ $FILE_SERVER_URL = "<your file_server_url>";
 $USER_ID = "<your user_id>";
 $ZH_TOKEN = "<your zh_token>";
 
-$FILE_PATH = "l.stl"; // 本地stl文件地址
-$JAW_TYPE = "Lower"; // 上颌为Upper, 下颌为Lower
+$FILE_PATH = "l.stl"; // local STL file path
+$JAW_TYPE = "Lower"; // Upper for upper jaw and Lower for lower jaw
 
 // Step 1. upload stl to file server
 $t = time();
